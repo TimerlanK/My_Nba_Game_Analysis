@@ -9,5 +9,5 @@
 
 ## My_Nba_Game_Analysis
 1) Create a function analyse_nba_game(play_by_play_moves) which receives an array of play and will return a dictionary summary of the game.They are ordered by time.
-The return dictionary (hash) will have specific format: 
-2) Create a print_nba_game_stats(team_dict) function which will a dictionary with name and players_data will print it with the specific format (each column is separated by a tabulation (' ')):
+The return dictionary (hash) will have specific format.
+2) Create a print_nba_game_stats(team_dict) function which will a dictionary with name and players_data will print it with the specific format (each column is separated by a tabulation (' ')).
